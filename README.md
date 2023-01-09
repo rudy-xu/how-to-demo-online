@@ -1,7 +1,7 @@
 # how-to-demo-online
 Learn how to show demo online in github
 
-[Online Demo](https://cade-xu.github.io/how-to-demo-online/)
+[Online Demo](https://rudy-xu.github.io/how-to-demo-online/)
 
 ## UI Step
 * Create New Repository
